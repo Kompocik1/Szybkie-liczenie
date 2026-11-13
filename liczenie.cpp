@@ -30,7 +30,7 @@ int main() {
         cin>>odp_gracza;
 
         if(op=='+') {
-            if(odp_gracza==liczba1+liczba2){
+            if(odp_gracza== liczba1 + liczba2){
                 cout<<"Poprawna odpowiedz"<<endl;
             } else {
                 cout<<"Niestety poprawna odpowiedz to: "<<liczba1+liczba2<<endl;
